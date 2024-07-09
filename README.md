@@ -1,5 +1,5 @@
 # Study App with JavaFX
-<img src="https://img.shields.io/badge/-Team Project-green?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Team Project-29cf42?&style=for-the-badge&logoColor=white" />
 ## Objective
 This was a solo project. The game uses multithreading to accommodate multiple users playing Rock-Paper-Scissors simultaneously. It can host any number of pairs of players, so with 8 players, it can run 4 games concurrently.
 
